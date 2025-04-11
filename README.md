@@ -78,9 +78,10 @@ python snake_game.py
 
 ## Gameplay Preview
 
-| Gameplay             | Snake Eats Donut       | Game Over             |
-|----------------------|------------------------|------------------------|
-| ![Gameplay](https://media.giphy.com/media/3o7qE6pQ8JQfu9ZcdK/giphy.gif) | ![Eat Donut](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif) | ![Game Over](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) |
+| Gameplay              | Snake Eats Donut        | Game Over               |
+|-----------------------|-------------------------|-------------------------|
+| ![Snake Moving](https://media.giphy.com/media/IeRdg7UspgFzX2yRzd/giphy.gif) | ![Eating Donut](https://media.giphy.com/media/MF1jcdKD0ZmzW/giphy.gif) | ![Game Over](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif) |
+
 
 
 ---

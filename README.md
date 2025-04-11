@@ -89,3 +89,4 @@ python snake_game.py
 ## Contributors
 - Manish Kumar - [GitHub Profile](https://github.com/manish2kumar)
 - Ayush Kaushal - [GitHub Profile]( https://github.com/Ayushkaushal13)
+- Utkarsh Jha - [GitHub Profile]( https://github.com/utkarshjha1407)

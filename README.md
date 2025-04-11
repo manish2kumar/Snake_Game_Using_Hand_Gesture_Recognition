@@ -80,7 +80,7 @@ python snake_game.py
 
 | Gameplay              | Snake Eats Donut        | Game Over               |
 |-----------------------|-------------------------|-------------------------|
-| ![Snake Moving](https://media.giphy.com/media/IeRdg7UspgFzX2yRzd/giphy.gif) | ![Eating Donut](https://media.giphy.com/media/MF1jcdKD0ZmzW/giphy.gif) | ![Game Over](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif) |
+| ![Snake Moving](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hnYTNhbGlubmd3c3YydzR0MGpwc3d3em52aGNza3VjdjRzdHQxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7zYtI2HEGqVX8Zxah0/giphy.gif) | ![Eating Donut](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3drMjk1cjYzNnhpYjdlbGhweWYyMmptcjFzcWx2NGpyNDg1bzVzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoLX9jnBXbR5yMGF2m/giphy.gif) | ![Game Over](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25vZ2VneXp3Ymo2Z3hoOGlnZzJoMHdrN3Z0eXp3aDltcmt2NXIzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hqtw4vzrni8cU/giphy.gif) |
 
 
 

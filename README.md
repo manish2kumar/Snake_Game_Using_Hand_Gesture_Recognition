@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Snake_Game_Using_Hand_Gesture_Recognition
+git clone https://github.com/manish2kumar/Snake_Game_Using_Hand_Gesture_Recognition
 cd Snake_Game_Using_Hand_Gesture_Recognition
 ```
 
